@@ -12,7 +12,7 @@
 
 ### Voclina 2.2
 
-VIDEO TBD
+https://github.com/user-attachments/assets/1607c9db-8f1c-41ef-aa80-7eef4db90b0f
 
 - 가수: VORA (Vocalina 2.2)
 - 원곡: [Dream (VORA 데모곡)](https://www.youtube.com/watch?v=N-_DIthRrQc)
