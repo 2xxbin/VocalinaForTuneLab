@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/1607c9db-8f1c-41ef-aa80-7eef4db90b0f
 
 - 가수: VORA (Vocalina 2.2)
 - 원곡: [Dream (VORA 데모곡)](https://www.youtube.com/watch?v=N-_DIthRrQc)
+- INST는 보카리나 스튜디오의 샘플 VSP 중, `Dream(v.카일린).vsp`의 내부 INST를 사용하였습니다.
 
 ### Voclina 2.3
 
@@ -23,6 +24,7 @@ VIDEO TBD
 
 - 가수: Khylin (Vocalina 2.3)
 - 원곡: [Dream (VORA 데모곡)](https://www.youtube.com/watch?v=N-_DIthRrQc)
+- INST는 보카리나 스튜디오의 샘플 VSP 중, `Dream(v.카일린).vsp`의 내부 INST를 사용하였습니다.
 
 ## 지원 파라미터
 
