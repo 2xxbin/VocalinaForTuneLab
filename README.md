@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/1607c9db-8f1c-41ef-aa80-7eef4db90b0f
 
 ### Voclina 2.3
 
-VIDEO TBD
+https://github.com/user-attachments/assets/50deb2c2-d408-43e4-bd57-e2470a1a9459
 
 - 가수: Khylin (Vocalina 2.3)
 - 원곡: [Dream (VORA 데모곡)](https://www.youtube.com/watch?v=N-_DIthRrQc)
