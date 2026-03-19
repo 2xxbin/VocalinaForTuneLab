@@ -54,12 +54,13 @@ https://github.com/user-attachments/assets/50deb2c2-d408-43e4-bd57-e2470a1a9459
 설치에 앞서, 사용하려는 보카리나 버전의 스튜디오와 유저 패치가 설치되어 있어야 합니다. <br>
 [설치 파일 및 유저 패치는 아래에서 다운로드 가능합니다.](https://cafe.naver.com/f-e/cafes/27638112/articles/2326?boardtype=L&menuid=1&referrerAllArticles=false)
 
-1. [`TuneLab` 릴리즈 페이지](https://github.com/LiuYunPlayer/TuneLab/releases/)에서 최선 버전을 다운로드합니다.
-2. 압축 해제 후, 폴더 내부 `TuneLab.exe`를 실행합니다.
-3. [`VocalinaForTuneLab` 릴리즈 페이지](https://github.com/LiuYunPlayer/TuneLab/releases/)에서 **본인이 사용할 보카리나 버전의 확장을** 다운로드합니다.
-4. 실행된 `TuneLab`에 `.tlx` 파일을 드래그해 보카리나 확장을 설치합니다.
-5. `TuneLab`을 종료 후 재실행하여 보이스 목록에 `Vocalina 2.X`가 뜨는지 확인합니다.
-6. 정상적으로 동작하는지 테스트합니다.
+1. [32비트 `.NET Runtime 8.0`](https://dotnet.microsoft.com/ko-kr/download/dotnet/thank-you/runtime-8.0.25-windows-x86-installer?cid=getdotnetcore)을 다운로드 후 설치합니다.
+2. [`TuneLab` 릴리즈 페이지](https://github.com/LiuYunPlayer/TuneLab/releases/)에서 최선 버전을 다운로드합니다.
+3. 압축 해제 후, 폴더 내부 `TuneLab.exe`를 실행합니다.
+4. [`VocalinaForTuneLab` 릴리즈 페이지](https://github.com/LiuYunPlayer/TuneLab/releases/)에서 **본인이 사용할 보카리나 버전의 확장을** 다운로드합니다.
+5. 실행된 `TuneLab`에 `.tlx` 파일을 드래그해 보카리나 확장을 설치합니다.
+6. `TuneLab`을 종료 후 재실행하여 보이스 목록에 `Vocalina 2.X`가 뜨는지 확인합니다.
+7. 정상적으로 동작하는지 테스트합니다.
 
 만약 본인이 보카리나 설치 폴더가 기본 경로가 아닐 시, 설정 파일 편집이 필요합니다.
 
