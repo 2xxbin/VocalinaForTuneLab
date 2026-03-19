@@ -54,6 +54,9 @@ https://github.com/user-attachments/assets/50deb2c2-d408-43e4-bd57-e2470a1a9459
 설치에 앞서, 사용하려는 보카리나 버전의 스튜디오와 유저 패치가 설치되어 있어야 합니다. <br>
 [설치 파일 및 유저 패치는 아래에서 다운로드 가능합니다.](https://cafe.naver.com/f-e/cafes/27638112/articles/2326?boardtype=L&menuid=1&referrerAllArticles=false)
 
+보카리나 스튜디오의 무설치 버전에서는 작동이 확인되지 않았습니다. <br>
+**꼭 `setup.exe`**를 통해 설치한 보카리나로 사용해주세요.
+
 1. [32비트 `.NET Runtime 8.0`](https://dotnet.microsoft.com/ko-kr/download/dotnet/thank-you/runtime-8.0.25-windows-x86-installer?cid=getdotnetcore)을 다운로드 후 설치합니다.
 2. [`TuneLab` 릴리즈 페이지](https://github.com/LiuYunPlayer/TuneLab/releases/)에서 최선 버전을 다운로드합니다.
 3. 압축 해제 후, 폴더 내부 `TuneLab.exe`를 실행합니다.
