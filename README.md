@@ -8,6 +8,12 @@
 
 64 비트 Windows 전용이며, 32비트 및 기타 OS에서는 정상 작동을 보장하지 않습니다.
 
+<br>
+
+본 프로젝트에서 사용된 LLM: `Claude Sonnet 5`, `Gemini Flash 3.6 Flash`, `Gemini 3.1 Pro`
+> 이펙트 아이디어 구체화, 코드 리팩토링 등에 사용되었습니다. <br>
+> 모든 AI 생성 코드는 사람이 재검토 및 수정하여 사용하었습니다.
+
 ## 데모
 
 ### Voclina 2.2
@@ -32,9 +38,15 @@ https://github.com/user-attachments/assets/50deb2c2-d408-43e4-bd57-e2470a1a9459
 - `Velocity`: 보카리나의 벨로시티입니다. 0부터 127의 범위를 가지며, 자음의 타이밍을 조정합니다.
 - `Gain`: 트랙의 게인을 조정합니다. 볼륨이 너무 크거나 작을 때 조정해주세요.
 - `Volume`: 볼륨 오토메이션입니다. 다이나믹 조교에 사용됩니다.
+- `Gender`: 목소리의 성도 길이를 조정하여 목소리를 변형합니다.
+- `Breathness`: 목소리의 숨 성분을 조절하여 속삭임을 구현합니다.
 
 추가적로, 피아노 롤의 아래 노트 경계를 조정해 노트 길이를 수정하여 박자를 맞출 수 있습니다.
 기존 보카리나의 파라미터(`Gender`, `Hamonic`, `EQ`, `Echo`, `Reverb`, `Pitch`)는 지원되지 않습니다.
+
+현재 해당 확장에 구현된 모든 파라미터는 기존 보카리나 스튜디오에 사용된 방식이 아닌, 자체적으로 구현한 이펙트입니다.
+> #### 구현에 참고한 레포지토리
+> 1. [`SODAsoo07/Tansan-Sampler`](https://github.com/SODAsoo07/Tansan-Sampler): `Breathness`, `Gender` 관련 로직
 
 ## 알려진 문제점
 
